@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Practical 07 | Web Tech Lab (ECS - 652)</title>
+    </head>
+    <script>
+        function myFunction() {
+          var txt;
+          var person = prompt("Enter your Name:", "");
+          if (person == null || person == "") {
+            txt = "User cancelled the prompt.";
+          } else {
+            txt = "Welcome " + person + "! How are you??";
+          }
+          document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+    <body onload="myFunction()">
+        <p id="demo"></p>
+    </body>
+</html>

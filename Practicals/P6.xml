@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <to>abhi.2015.hts@outlook.com</to>
+    <from>a.s.2013.hts@gmail.com</from>
+    <cc>_blank_</cc>
+    <bcc>_blank_</bcc>
+    <subject>Regarding Coding Competition</subject>
+    <body>Hello bro, I m inviting you for ABCD Coding Competition, timing will be <bold> 12:00 AM Thrusday </bold></body>
+    <attachment>details.pdf</attachment>
+</email>
